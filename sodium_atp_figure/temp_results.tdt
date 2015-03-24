@@ -1,0 +1,8 @@
+# BLASTP 2.2.29+
+# Query: PM91_NoIndex_L003_R1_001_(paired)_trimmed_(paired)_contig_4911_[cov=4023]_440_688_-
+# RID: JHSG3JN9015
+# Database: nr
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+PM91_NoIndex_L003_R1_001_(paired)_trimmed_(paired)_contig_4911_[cov=4023]_440_688_-	gi|121592737|ref|YP_984633.1|	98.77	81	1	0	1	81	2	82	5e-45	  150
+# BLAST processed 1 queries

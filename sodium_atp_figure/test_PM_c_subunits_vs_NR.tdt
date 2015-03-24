@@ -1,0 +1,8 @@
+# BLASTP 2.2.29+
+# Query: PM30_NoIndex_L003_R1_001_(paired)_trimmed_(paired)_contig_11049_[cov=3899]_1_607_+
+# RID: J0WU0Y3W014
+# Database: nr
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+PM30_NoIndex_L003_R1_001_(paired)_trimmed_(paired)_contig_11049_[cov=3899]_1_607_+	gi|516500682|ref|WP_017889122.1|	61.87	139	52	1	47	184	5	143	7e-51	  172
+# BLAST processed 1 queries
